@@ -11,6 +11,6 @@ I'm a software engineer at [Betterbank](https://betterbank.app) - Brooklyn, NY ð
 - ðŸ’¼ Ex-[@freelancer](https://github.com/freelancer) and ex-[@xurpas](https://xurpas.com) software engineer
 ### Get in touch
 - Twitter: https://twitter.com/joshuamdeguzman
-- Personal website: https://joshuadeguzman.net
-- Blog: https://codedash.dev
+- Personal: https://joshuadeguzman.net
+- Blog: https://blog.joshuadeguzman.net
 - Email: hello@joshuadeguzman.net
