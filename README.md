@@ -6,7 +6,7 @@ I'm a software engineer at [Better Bank](https://betterbank.app) - Brooklyn, NY 
 - 🇵🇭 I co-organize and volunteer at [Flutter Philippines](https://flutter.ph)
 - ✍️ I’m publishing my own tutorials, technical articles on my [blog](https://blog.joshuadeguzman.net)
 - 👯 I’m looking to collaborate on exciting projects that promote technology and education
-- 💬 Ask me about [Flutter](http://flutter.dev/) and [Dart](https://dart.dev/)
+- 💬 Ask me about [Flutter](http://flutter.dev/) and [Dart](https://dart.dev/), Mobile and Web
 - 😄 Pronouns: he/him/his
 - 💼 Ex-[@freelancer](https://github.com/freelancer) and ex-[@xurpas](https://xurpas.com) software engineer
 ### Get in touch
