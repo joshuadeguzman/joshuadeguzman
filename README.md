@@ -8,7 +8,7 @@ I'm a software engineer at [Better Financial Corporation](https://betterbanking.
 
 👯 Looking to collaborate on exciting projects that promote technology and education
 
-🇵🇭 Co-organize at [Flutter Philippines](https://flutter.ph)
+🇵🇭 Volunteering at [Flutter Philippines](https://flutter.ph)
 
 💬 Ask me about [Flutter](http://flutter.dev/) and [Dart](https://dart.dev/), Mobile and Web
 
