@@ -10,7 +10,7 @@ I'm a software engineer at [Better Financial](https://betterbanking.app) - Brook
 
 🇵🇭 Volunteering at [Flutter Philippines](https://flutter.ph)
 
-💬 Ask me about [Flutter](http://flutter.dev/) and [Dart](https://dart.dev/), Mobile and Web
+💬 Ask me about software, tech, finance, anything interesting!
 
 😄 Pronouns: he/him/his
 
