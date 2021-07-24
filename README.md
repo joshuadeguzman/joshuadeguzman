@@ -2,7 +2,7 @@
 
 I'm a software engineer at [Better Financial](https://betterbanking.app) - Brooklyn, NY 🏙️ and a Flutter and Dart GDE at [Google Developer Experts](https://developers.google.com/community/experts/directory/profile/profile-joshua_de_guzman) 💙
 
-📱 Working at a Fintech Startup
+📱 Working at a FinTech Startup
 
 ✍️ Publishing tutorials, technical articles on my [website](https://joshuamdeguzman.com)
 
@@ -20,6 +20,8 @@ I'm a software engineer at [Better Financial](https://betterbanking.app) - Brook
 
 Twitter: https://twitter.com/joshuamdeguzman
 
-Website: https://joshuamdeguzman.com
+Blog: https://joshuamdeguzman.com
+
+Portfolio: https://deguzman.dev
 
 Email: hi@joshuamdeguzman.com
