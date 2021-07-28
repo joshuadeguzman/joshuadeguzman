@@ -1,6 +1,6 @@
 ### Kamusta? 👋
 
-I'm a software engineer at [Better Financial](https://betterbanking.app) - Brooklyn, NY 🏙️ and a Flutter and Dart GDE at [Google Developer Experts](https://developers.google.com/community/experts/directory/profile/profile-joshua_de_guzman) 💙
+I'm a software engineer for a FinTech startup based in NY and a Flutter and Dart GDE.
 
 📱 Working at a FinTech startup. Previously at global jobs and services martketplaces, logistics, and live-streaming
 
