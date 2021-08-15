@@ -2,7 +2,7 @@
 
 I'm a remote software engineer for a FinTech startup based in the US and a Flutter and Dart GDE.
 
-📱 Making investing accessible. Previously at neobanks, jobs and services martketplaces, freight forwarding, and live-streaming
+🚀 Making investing accessible to all. Previously building a **digital bank**, connecting people on **jobs and services marketplace**, building a platform to **move freights**, and connecting Filipinos to their favorite celebrities through **live-streaming**
 
 🏢 Building Flutter Philippines, AXS Ventures, Pexelerate
 
