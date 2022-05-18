@@ -1,15 +1,15 @@
 ### Kamusta? 👋
 
-I'm a remote software engineer for a FinTech startup based in the US and a Flutter and Dart GDE.
+I'm a software engineer at dub and a co-organizer of Flutter Philippines.
 
-Building something in finance and tech. Previously building a **digital bank**, connecting people on **jobs and services marketplace**, building a platform to **move freights**, and connecting Filipinos to their favorite celebrities through **live-streaming**.
+Enabling everyone to invest in people and ideas. Previously building a **digital bank**, connecting people on **jobs and services marketplace**, building a platform to **move freights**, and connecting Filipinos to their favorite celebrities through **live-streaming**.
 
-🏢 Building Flutter Philippines, AXS Ventures, Pexelerate
+🏢 [@dubinvest](dubinvesting.webflow.io), @flutterph, @GoogleDevExpert
 
-💬 Let's talk software, tech, happy to learn more about finance, investing
+💬 Let's talk software & tech, happy to learn more about finance & investing
 
 😄 Pronouns: he/him/his
 
 ### Get in touch
 
-[@joshuamdeguzman](https://twitter.com/joshuamdeguzman) | [deguzman.dev](https://deguzman.dev)
+[joshuamdeguzman](https://twitter.com/joshuamdeguzman) | [deguzman.dev](https://deguzman.dev)
