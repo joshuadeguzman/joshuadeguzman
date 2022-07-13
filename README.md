@@ -6,7 +6,6 @@ I help enable everyone to invest in people and ideas. I collaborate with the tec
 
 **Watch, Like, Share, Subscribe, Follow**
 
-[<img align="left" alt="Joshua de Guzman! | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="Joshua de Guzman! | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Joshua de Guzman! | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
 [<img align="left" alt="Joshua de Guzman! | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -19,6 +18,15 @@ I help enable everyone to invest in people and ideas. I collaborate with the tec
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ### Get in touch
 
 [joshuamdeguzman](https://twitter.com/joshuamdeguzman) | [deguzman.dev](https://deguzman.dev)
+
+---
+
+[website]: https://joshuamdeguzman.com
+[twitter]: https://twitter.com/suprdeclarative
+[blog]: http://blog.joshuamdeguzman.com
+[linkedin]: https://www.linkedin.com/in/joshuadeguzman
