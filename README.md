@@ -1,16 +1,20 @@
-### Kamusta? 👋
+### Hi, I'm Joshua. I'm a software developer and 
 
-I'm a software engineer at dub and a co-organizer of Flutter Philippines.
+I help enable everyone to invest in people and ideas. I collaborate with the tech community regarding developer experiences, tools like Flutter and Dart. I previously help launched products used by millions globally.
 
-Enabling everyone to invest in people and ideas. Previously building a **digital bank**, connecting people on **jobs and services marketplace**, building a platform to **move freights**, and connecting Filipinos to their favorite celebrities through **live-streaming**.
+---
 
-🏢 [@dubinvest](dubinvesting.webflow.io), @flutterph, @GoogleDevExpert
+**Watch, Like, Share, Subscribe, Follow**
 
-💬 Let's talk software & tech, happy to learn more about finance & investing
+[<img align="left" alt="Joshua de Guzman! | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Joshua de Guzman! | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Joshua de Guzman! | Blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][blog]
+[<img align="left" alt="Joshua de Guzman! | Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Joshua de Guzman! | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br>
+---
 
-😄 Pronouns: he/him/his
-
-### Latest Posts
+### Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
