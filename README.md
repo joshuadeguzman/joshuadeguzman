@@ -10,6 +10,11 @@ Enabling everyone to invest in people and ideas. Previously building a **digital
 
 😄 Pronouns: he/him/his
 
+### Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ### Get in touch
 
 [joshuamdeguzman](https://twitter.com/joshuamdeguzman) | [deguzman.dev](https://deguzman.dev)
