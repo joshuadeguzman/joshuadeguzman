@@ -20,7 +20,7 @@ I previously helped launch products used by millions globally.
 - [Improve Flutter iOS Build Time  When Using Firestore](https://joshuamdeguzman.com/improve-flutter-ios-build-time-when-using-firestore/)
 - [Write Scalable Circle CI Workflows for Flutter, The Orb Way](https://joshuamdeguzman.com/writing-scalable-circle-ci-config-for-flutter-apps/)
 - [Guide To Use GNU Make For Flutter](https://joshuamdeguzman.com/flutter-makefiles/)
-- [Guide To Automate Flutter to TestFlight using Fastlane and Semaphore](https://joshuamdeguzman.com/automate-flutter-app-deployment-on-ios-to-testflight-using-fastlane-and-semaphore/)
+- [Presenter Profile](https://joshuamdeguzman.com/presentations/profile/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
