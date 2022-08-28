@@ -16,11 +16,11 @@ I previously helped launch products used by millions globally.
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make The Work From Home Work For You](https://joshuamdeguzman.com/make-the-work-from-home-work-for-you/)
 - [Build Your Own Games in Flutter, Google I/O Extended Manila](https://joshuamdeguzman.com/presentations/build-your-own-games-in-flutter/)
 - [Improve Flutter iOS Build Time  When Using Firestore](https://joshuamdeguzman.com/improve-flutter-ios-build-time-when-using-firestore/)
 - [Write Scalable Circle CI Workflows for Flutter, The Orb Way](https://joshuamdeguzman.com/writing-scalable-circle-ci-config-for-flutter-apps/)
 - [Guide To Use GNU Make For Flutter](https://joshuamdeguzman.com/flutter-makefiles/)
-- [Presenter Profile](https://joshuamdeguzman.com/presentations/profile/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
