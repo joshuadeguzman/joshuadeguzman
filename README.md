@@ -1,4 +1,4 @@
-### Hi, I'm Joshua. I'm a software developer and designer.
+### I'm Joshua. I'm a designer and a full-stack developer focusing on launching products that help improve people's lives.
 
 I help build a platform that enables everyone to invest in people and ideas. I collaborate with the tech community regarding developer experiences, and tools like Flutter and Dart.
 
