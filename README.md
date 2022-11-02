@@ -18,11 +18,11 @@ I previously helped launch products used by millions globally.
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter DICT Training Bootcamp](https://joshuamdeguzman.com/presentations/flutter-dict-training/)
-- [Make The Work From Home Work For You](https://joshuamdeguzman.com/make-the-work-from-home-work-for-you/)
-- [Building Games in Flutter](https://joshuamdeguzman.com/presentations/building-games-in-flutter/)
-- [Build Your Own Games in Flutter, Google I/O Extended Manila](https://joshuamdeguzman.com/presentations/build-your-own-games-in-flutter/)
-- [Improve Flutter iOS Build Time  When Using Firestore](https://joshuamdeguzman.com/improve-flutter-ios-build-time-when-using-firestore/)
+- [Speaker at DevFest Bogor 2022 🇮🇩](https://joshuamdeguzman.com/devfest-bogor-2022/)
+- [Speaker at DevFest Jakarta 2022 🇮🇩](https://joshuamdeguzman.com/devfest-jakarta/)
+- [Speaker at DevFest Singapore 2022 🇸🇬](https://joshuamdeguzman.com/devfest-singapore-2022/)
+- [Keynote Speaker at NU Baliwag](https://joshuamdeguzman.com/presentations/keynote-speaker-at-nu-baliwag/)
+- [Regional Judge at Philippine Startup Challenge 7](https://joshuamdeguzman.com/presentations/philippine-startup-challenge/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
