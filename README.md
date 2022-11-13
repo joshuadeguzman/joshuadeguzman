@@ -18,11 +18,11 @@ I previously helped launch products used by millions globally.
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Speaker at DevFest Bogor 2022 🇮🇩](https://joshuamdeguzman.com/devfest-bogor-2022/)
-- [Speaker at DevFest Jakarta 2022 🇮🇩](https://joshuamdeguzman.com/devfest-jakarta/)
-- [Speaker at DevFest Singapore 2022 🇸🇬](https://joshuamdeguzman.com/devfest-singapore-2022/)
-- [Keynote Speaker at NU Baliwag](https://joshuamdeguzman.com/presentations/keynote-speaker-at-nu-baliwag/)
-- [Regional Judge at Philippine Startup Challenge 7](https://joshuamdeguzman.com/presentations/philippine-startup-challenge/)
+- [Speaker at DevFest Bogor 2022](https://joshuamdeguzman.com/devfest-bogor-2022/)
+- [Speaker at DevFest Singapore 2022](https://joshuamdeguzman.com/devfest-singapore-2022/)
+- [Keynote Speaker at NU Baliwag](https://joshuamdeguzman.com/keynote-speaker-at-nu-baliwag/)
+- [Regional Judge at Philippine Startup Challenge 7](https://joshuamdeguzman.com/philippine-startup-challenge/)
+- [Attended Google Developer Community Leads Summit SEA 2022](https://joshuamdeguzman.com/attended-google-developer-summit-sea-2022/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
