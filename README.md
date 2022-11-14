@@ -18,11 +18,11 @@ I previously helped launch products used by millions globally.
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Speaker at DevFest Bogor 2022](https://joshuamdeguzman.com/devfest-bogor-2022/)
-- [Speaker at DevFest Singapore 2022](https://joshuamdeguzman.com/devfest-singapore-2022/)
-- [Keynote Speaker at NU Baliwag](https://joshuamdeguzman.com/keynote-speaker-at-nu-baliwag/)
-- [Regional Judge at Philippine Startup Challenge 7](https://joshuamdeguzman.com/philippine-startup-challenge/)
-- [Attended Google Developer Community Leads Summit SEA 2022](https://joshuamdeguzman.com/attended-google-developer-summit-sea-2022/)
+- [Make The Work From Home Work For You](https://joshuamdeguzman.com/make-the-work-from-home-work-for-you/)
+- [Improve Flutter iOS Build Time  When Using Firestore](https://joshuamdeguzman.com/improve-flutter-ios-build-time-when-using-firestore/)
+- [Write Scalable Circle CI Workflows for Flutter, The Orb Way](https://joshuamdeguzman.com/writing-scalable-circle-ci-config-for-flutter-apps/)
+- [Guide To Use GNU Make For Flutter](https://joshuamdeguzman.com/flutter-makefiles/)
+- [Guide To Automate Flutter to TestFlight using Fastlane and Semaphore](https://joshuamdeguzman.com/automate-flutter-app-deployment-on-ios-to-testflight-using-fastlane-and-semaphore/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
