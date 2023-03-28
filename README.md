@@ -18,11 +18,11 @@ I previously helped launch products used by millions globally.
 ### Recent blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve Flutter iOS Build Time  When Using Firestore](https://joshuamdeguzman.com/improve-flutter-firestore-build/)
-- [Write Scalable Circle CI Workflows for Flutter, The Orb Way](https://joshuamdeguzman.com/writing-scalable-circle-ci-config-for-flutter-apps/)
-- [Guide To Use GNU Make For Flutter](https://joshuamdeguzman.com/flutter-makefiles/)
-- [Guide To Automate Flutter to TestFlight using Fastlane and Semaphore](https://joshuamdeguzman.com/automate-flutter-app-deployment-on-ios-to-testflight-using-fastlane-and-semaphore/)
-- [Automate Flutter iOS Apps Deployment to Firebase using Semaphore](https://joshuamdeguzman.com/deploy-flutter-ios-apps-to-testers-using-firebase-app-distribution-with-semaphore/)
+- [Improve Flutter iOS Build Time  When Using Firestore](https://joshuamdeguzman.com/blog/improve-flutter-firestore-build/)
+- [Write Scalable Circle CI Workflows for Flutter, The Orb Way](https://joshuamdeguzman.com/blog/writing-scalable-circle-ci-config-for-flutter-apps/)
+- [Guide To Use GNU Make For Flutter](https://joshuamdeguzman.com/blog/flutter-makefiles/)
+- [Guide To Automate Flutter to TestFlight using Fastlane and Semaphore](https://joshuamdeguzman.com/blog/automate-flutter-app-deployment-on-ios-to-testflight-using-fastlane-and-semaphore/)
+- [Automate Flutter iOS Apps Deployment to Firebase using Semaphore](https://joshuamdeguzman.com/blog/deploy-flutter-ios-apps-to-testers-using-firebase-app-distribution-with-semaphore/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
