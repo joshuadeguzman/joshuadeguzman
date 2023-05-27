@@ -20,11 +20,11 @@ I previously helped launch products used by millions globally.
 **Recent blog posts**
 
 <!-- BLOG-POST-LIST:START -->
-- [Improve Flutter iOS Build Time  When Using Firestore](https://joshuamdeguzman.com/blog/improve-flutter-firestore-build/)
-- [Write Scalable Circle CI Workflows for Flutter, The Orb Way](https://joshuamdeguzman.com/blog/writing-scalable-circle-ci-config-for-flutter-apps/)
-- [Guide To Use GNU Make For Flutter](https://joshuamdeguzman.com/blog/flutter-makefiles/)
-- [Guide To Automate Flutter to TestFlight using Fastlane and Semaphore](https://joshuamdeguzman.com/blog/automate-flutter-app-deployment-on-ios-to-testflight-using-fastlane-and-semaphore/)
-- [Automate Flutter iOS Apps Deployment to Firebase using Semaphore](https://joshuamdeguzman.com/blog/deploy-flutter-ios-apps-to-testers-using-firebase-app-distribution-with-semaphore/)
+- [Stay Productive at Work](https://joshuamdeguzman.com/blog/stay-productive-at-work/)
+- [Deploy Widgetbook on Flutter Web to Firebase Preview Channels](https://joshuamdeguzman.com/blog/deploy-widgetbook-firebase/)
+- [Build a ChatGPT-Powered Chatbot With Flutter](https://joshuamdeguzman.com/blog/chatgpt-chatbot-flutter/)
+- [5 Key Lessons Learned as a Software Engineer at Freelancer.com](https://joshuamdeguzman.com/blog/five-lessons-freelancer/)
+- [Write Scalable Circle CI Workflows for Flutter, The Orb Way](https://joshuamdeguzman.com/blog/scable-circleci-config/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
