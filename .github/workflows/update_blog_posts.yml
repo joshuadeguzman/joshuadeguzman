@@ -14,4 +14,4 @@ jobs:
       - name: Pull in personal blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://joshuamdeguzman.com/blog/rss/"
+          feed_list: "https://joshuamdeguzman.com/blog/index.xml"
