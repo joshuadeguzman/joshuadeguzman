@@ -20,11 +20,11 @@ I previously helped launch products used by millions globally.
 **Recent blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Brag Now, Remember Later](https://joshuamdeguzman.com/blog/brag-now-remember-later/)
+- [Leveling Up From Junior to Senior SWE in Flutter](https://joshuamdeguzman.com/blog/leveling-up-from-junior-to-senior-engineer-in-flutter/)
+- [Lessons From Work Communication](https://joshuamdeguzman.com/blog/early-work-communication-lessons/)
+- [Leverage Writing](https://joshuamdeguzman.com/blog/leverage-writing/)
 - [Stay Productive at Work](https://joshuamdeguzman.com/blog/stay-productive-at-work/)
-- [Deploy Widgetbook on Flutter Web to Firebase Preview Channels](https://joshuamdeguzman.com/blog/deploy-widgetbook-firebase/)
-- [Build a ChatGPT-Powered Chatbot With Flutter](https://joshuamdeguzman.com/blog/chatgpt-chatbot-flutter/)
-- [5 Key Lessons Learned as a Software Engineer at Freelancer.com](https://joshuamdeguzman.com/blog/five-lessons-freelancer/)
-- [Write Scalable Circle CI Workflows for Flutter, The Orb Way](https://joshuamdeguzman.com/blog/scable-circleci-config/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
