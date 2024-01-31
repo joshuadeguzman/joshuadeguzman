@@ -20,11 +20,11 @@ I previously helped launch products used by millions globally.
 **Recent blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Got Stuck at Work?](https://joshuamdeguzman.com/blog/got-stuck/)
 - [Brag Now, Remember Later](https://joshuamdeguzman.com/blog/brag-now-remember-later/)
 - [Leveling Up From Junior to Senior SWE in Flutter](https://joshuamdeguzman.com/blog/leveling-up-from-junior-to-senior-engineer-in-flutter/)
 - [Lessons From Work Communication](https://joshuamdeguzman.com/blog/early-work-communication-lessons/)
 - [Leverage Writing](https://joshuamdeguzman.com/blog/leverage-writing/)
-- [Stay Productive at Work](https://joshuamdeguzman.com/blog/stay-productive-at-work/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
