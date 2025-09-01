@@ -20,11 +20,11 @@ I previously helped launch products used by millions globally.
 **Recent blog posts**
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the Hype, Build It Right](https://joshuamdeguzman.com/blog/vibe-coding/)
+- [Brag Now, Remember Later in 2025](https://joshuamdeguzman.com/blog/brag-now-remember-later-2025/)
+- [Why I Build Passion Projects](https://joshuamdeguzman.com/blog/why-i-build-passion-projects/)
 - [Be Visible](https://joshuamdeguzman.com/blog/be-visible/)
 - [Got Stuck at Work?](https://joshuamdeguzman.com/blog/got-stuck/)
-- [Brag Now, Remember Later](https://joshuamdeguzman.com/blog/brag-now-remember-later/)
-- [Leveling Up From Junior to Senior SWE in Flutter](https://joshuamdeguzman.com/blog/leveling-up-from-junior-to-senior-engineer-in-flutter/)
-- [Lessons From Work Communication](https://joshuamdeguzman.com/blog/early-work-communication-lessons/)
 <!-- BLOG-POST-LIST:END -->
 
 [website]: https://joshuamdeguzman.com
